@@ -1,0 +1,12 @@
+---
+host: localhost
+database: forum
+username: forum
+password: forum555
+
+smarty:
+  template_dir: /usr/www/forum/view/smarty/templates
+  compile_dir: /usr/www/forum/view/smarty/templates_c
+  cache_dir: /usr/www/forum/view/smarty/cache
+  config_dir: /usr/www/forum/view/smarty/configs
+...
